@@ -15,9 +15,9 @@ import { offsetHoursSimple } from 'offset-hours';
 
 // 1 hour ago
 const past = offsetHoursSimple(-1);
-console.log(past.toISOString());
+console.log(past);
 
 // 3 hours later
 const future = offsetHoursSimple(3);
-console.log(future.toISOString());
+console.log(future);
 ```
