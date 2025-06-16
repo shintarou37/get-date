@@ -11,5 +11,10 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.9.0"
-  }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ]
 }
