@@ -1,6 +1,6 @@
 {
   "name": "offset-hours",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Get a Date offset by N hours",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
